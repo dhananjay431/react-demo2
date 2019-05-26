@@ -1,0 +1,18 @@
+h1, p {
+  font-family: Lato;
+}
+.flx{
+  /* width:100%;
+  display: flex;
+  position: absolute;
+  top:56px;
+  left:0; */
+}
+.side{
+  flex:1;
+  background-color: #ccc;
+}
+.rside{
+  flex:3;
+  background-color: #FFAAAA;
+}
